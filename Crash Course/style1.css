@@ -1,0 +1,11 @@
+body{
+    background-color: #d6ebe7c3;
+}
+#p1{
+    color: rgb(249, 102, 102); /* Light red color */
+}
+
+#p3{
+    color: rgba(255, 78, 78, 0.697); /* Dark red color */
+    font-size: 20px; 
+}
